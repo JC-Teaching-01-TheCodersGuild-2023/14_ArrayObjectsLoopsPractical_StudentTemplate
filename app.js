@@ -180,7 +180,7 @@ while (i < 10) {
 // ****** Part 25 ****** \\
 // Object
 // const obj1 = {
-// 	fistName: 'Foo',
+// 	firstname: 'Foo',
 // 	lastName: 'Bar',
 // };
 
@@ -192,13 +192,13 @@ while (i < 10) {
 // ****** Part 26 ****** \\
 // Working with objects
 // const obj1 = {
-// 	fistName: 'Foo',
+// 	firstname: 'Foo',
 // 	lastName: 'Bar',
 //   age: 21
 // };
 
 // // select
-// console.log(obj1.fistName);
+// console.log(obj1.firstname);
 
 // // Update
 // obj1.age = 31
@@ -219,17 +219,17 @@ while (i < 10) {
 
 // arr.push(
 // 	{
-// 		fistName: 'Foo',
+// 		firstname: 'Foo',
 // 		lastName: 'Bar',
 // 	},
 // 	{
-// 		fistName: 'Julie',
+// 		firstname: 'Julie',
 // 		lastName: 'Jones',
 // 	},
 // 	[1, 2]
 // );
 
-// console.log(arr[1].fistName);
+// console.log(arr[1].firstname);
 
 // ****** Part 27 ****** \\
 // Objects of arrays
